@@ -103,7 +103,7 @@
     <h1>Zakaria Dev</h1>
     <nav>
         <a href="exercice.php">Accueil</a>
-        <a href="#projects">Projets</a>
+        <a href="php.php">Projets</a>
         <a href="#contact">Contact</a>
     </nav>
 </header>
