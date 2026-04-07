@@ -104,7 +104,8 @@
     <nav>
         <a href="exercice.php">Accueil</a>
         <a href="php.php">Projets</a>
-        <a href="#contact">Contact</a>
+        <a href="gestion.php">Contact</a>
+        
     </nav>
 </header>
 
